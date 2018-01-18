@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/OK_Folders/OK_Scenes/Ok_Test.unity
+  isLoaded: 1
+  isActive: 1
